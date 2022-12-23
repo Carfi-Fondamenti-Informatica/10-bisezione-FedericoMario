@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 float
 f (float y){
@@ -37,5 +38,4 @@ int main() {
     stampa(x);
     return 0;
 }
-
 
